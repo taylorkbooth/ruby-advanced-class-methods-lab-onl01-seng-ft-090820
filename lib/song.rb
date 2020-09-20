@@ -38,7 +38,8 @@ end
    end
      
     def self.alphabetical()
-      @@all.sort_by{|x| x.name
+      @@all.sort_by{|x| x.name}
+    end
       
      
      
