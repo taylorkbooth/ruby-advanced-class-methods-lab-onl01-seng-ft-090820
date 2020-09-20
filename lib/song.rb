@@ -30,7 +30,7 @@ end
 end
 
   def self.find_by_name(name)
-    song = self.new
+    @@all.find
     
 
 end
